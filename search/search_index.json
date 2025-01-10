@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Welcome to MkDocs","text":""},{"location":"blog/index.html","title":"Index","text":""},{"location":"blog/index.html#blog","title":"Blog","text":""}]}
